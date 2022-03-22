@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+#cards {
+  margin-top: 80px;
+}
+
+#cards > img {
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
